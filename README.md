@@ -1,4 +1,4 @@
-# firsttest
+# Cool
 
 ## Project setup
 ```
